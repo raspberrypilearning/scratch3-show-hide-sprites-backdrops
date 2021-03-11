@@ -1,59 +1,29 @@
-## Introduction
+## Show and hide sprites on different backdrops
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Some sprites should only show on some backdrops when you a creating a book, animation, presentation or game with levels.
 
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+**Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
+Click the Stage or `space` key to switch to the `next backdrop`{:class="block3looks"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Use `show`{:class="block3looks"} and `hide`{:class="block3looks"} with `when backdrop switches to`{:class="block3events"} to make sprites only show on the backdrops where they belong.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+**Beachball:**
+```blocks3
+when backdrop switches to [Beach Rio v]
+show
 
-+ A computer or tablet capable of running Scratch 3
+when backdrop switches to [Soccer 2 v]
+hide
+```
 
-### Software
+Set the backdrop `when flag clicked`{:class="block3events"} to make sure sprites show or hide correctly on the first page:
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+```blocks3
+when flag clicked
+switch backdrop to [Beach Rio v]
+```
 
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** You can also `show`{:class="block3looks"} and `hide`{:class="block3looks"} sprites `when flag clicked`{:class="block3events"}.
