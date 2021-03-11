@@ -1,11 +1,9 @@
-title: scratch3-show-hide-sprites-backdrops
+title: Show and hide sprites on different backdrops
 hero_image: images/banner.png
-description: scratch3-show-hide-sprites-backdrops description
+description: Show and hide sprites on different backdrops so they appear only on the correct pages, scenes or levels in your project.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-11"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Show and hide sprites on different backdrops
