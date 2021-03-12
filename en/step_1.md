@@ -1,5 +1,3 @@
-## Show and hide sprites on different backdrops
-
 Some sprites should only show on some backdrops when you a creating a book, animation, presentation or game with levels.
 
 **Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
