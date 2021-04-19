@@ -1,4 +1,4 @@
-Some sprites should only show on some backdrops, when you are creating a book, animation, presentation, or game with levels.
+When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
 
 **Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
 Click on the Stage or press the <kbd>Space</kbd> key to switch to the `next backdrop`{:class="block3looks"}.
@@ -17,7 +17,7 @@ when backdrop switches to [Soccer 2 v]
 hide
 ```
 
-Set the backdrop `when green flag clicked`{:class="block3events"} to make sure that sprites show or hide correctly on the first page:
+Set the `backdrop`{:class="block3looks"} `when green flag clicked`{:class="block3events"} to make sure that sprites show or hide correctly on the first backdrop:
 
 ```blocks3
 when flag clicked
