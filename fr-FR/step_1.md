@@ -6,22 +6,22 @@ Clique sur la scène ou appuie sur la touche <kbd>Espace</kbd> pour passer à l'
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use `show`{:class="block3looks"} and `hide`{:class="block3looks"} blocks with the `when backdrop switches to`{:class="block3events"} block to make sprites only show on the backdrops where they belong.
+Utilise les blocs `montrer`{:class="block3looks"} et `cacher`{:class="block3looks"} avec le bloc `quand l'arrière-plan bascule sur`{:class="block3events"} pour que les sprites ne s'affichent que sur les arrière-plans où ils appartiennent.
 
-**Beachball:**
+**Ballon de plage :**
 ```blocks3
-when backdrop switches to [Beach Rio v]
-show
+quand l'arrière-plan bascule sur [Beach Rio v]
+montrer
 
-when backdrop switches to [Soccer 2 v]
-hide
+quand l'arrière-plan bascule sur [Soccer 2 v]
+cacher
 ```
 
-Set the `backdrop`{:class="block3looks"} `when green flag clicked`{:class="block3events"} to make sure that sprites show or hide correctly on the first backdrop:
+Définis l'`arrière-plan`{:class="block3looks"} `quand le drapeau vert est cliqué`{:class="block3events"} pour t'assurer que les sprites s'affichent ou se masquent correctement sur le premier arrière-plan :
 
 ```blocks3
-when flag clicked
-switch backdrop to [Beach Rio v]
+quand le drapeau vert est cliqué 
+basculer sur l'arrière-plan [Beach Rio v]
 ```
 
-**Tip:** You can also `show`{:class="block3looks"} and `hide`{:class="block3looks"} sprites `when green flag clicked`{:class="block3events"}.
+**Astuce :** tu peux également `montrer`{:class="block3looks"} et `cacher`{:class="block3looks"} des sprites `quand le drapeau vert est cliqué`{:class="block3events"}.
