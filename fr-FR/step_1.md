@@ -1,7 +1,7 @@
-When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
+Lorsque tu crées un livre, une animation, une présentation ou un jeu avec des niveaux, certains sprites ne doivent apparaître que sur certains arrière-plans.
 
-**Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-Click on the Stage or press the <kbd>Space</kbd> key to switch to the `next backdrop`{:class="block3looks"}.
+**Afficher et masquer les sprites sur différents arrière-plans** : [Voir à l'intérieur](https://scratch.mit.edu/projects/499876704/editor){:target="_ blank"}
+Clique sur la scène ou appuie sur la touche <kbd>Espace</kbd> pour passer à l' `arrière-plan suivant`{:class="block3looks"}.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
