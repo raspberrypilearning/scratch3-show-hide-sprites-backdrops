@@ -17,7 +17,7 @@ when backdrop switches to [Soccer 2 v]
 hide
 ```
 
-Stel de `achtergrond`{:class="block3looks"} in met `wanneer op de groene vlag wordt geklikt`{:class="block3events"} om ervoor te zorgen dat sprites correct worden weergegeven of verborgen op de eerste achtergrond:
+Stel de `achtergrond`{:class="block3looks"} in `wanneer op de groene vlag wordt geklikt`{:class="block3events"} om ervoor te zorgen dat sprites correct worden weergegeven of verborgen op de eerste achtergrond:
 
 ```blocks3
 when flag clicked
