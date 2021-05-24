@@ -6,7 +6,7 @@ Klik op het werkgebied of druk op de toets <kbd>spatie</kbd> om over te schakele
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Gebruik `verschijn`{:class="block3looks"} en `verdwijn`{:class="block3looks"} blokken met het `verander achtergrond naar`{:class="block3events"} blok om sprites alleen op de achtergronden te laten zien waar ze thuishoren.
+Gebruik `verschijn`{:class="block3looks"} en `verdwijn`{:class="block3looks"} blokken met het `wanneer achtergrond verandert naar`{:class="block3events"} blok om sprites alleen op de achtergronden te laten zien waar ze thuishoren.
 
 **Strandbal:**
 ```blocks3
