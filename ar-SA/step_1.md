@@ -1,14 +1,14 @@
 عندما تنشئ كتاب أو رسوم متحركة أو عرض تقديمي أو لعبة بمستويات ، يجب أن تظهر بعض الكائنات على بعض الخلفيات فقط.
 
-**إظهار وإخفاء الكائنات على الخلفيات المختلفة**: [انظر من الداخل](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-انقر على المنصة أو اضغط على مفتاح <kbd>المسافة</kbd> للتبديل إلى `الخلفية التالية`{:class="block3looks"}.
+**Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
+Click on the Stage or press the <kbd>Space</kbd> key to switch to the next backdrop.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
 استخدم كتل `عرض`{:class="block3looks"} و `اخفاء`{:class="block3looks"} مع كتلة `عندما تتبدل الخلفية الى`{:class="block3events"} لجعل الكائنات تظهر فقط على الخلفيات حيث ينتمون.
 
-**كرة الشاطيء:**
+The **Beachball** sprite:
 ```blocks3
 when backdrop switches to [Beach Rio v]
 show
@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**نصيحة:** يمكنك أيضًا `إظهار`:class="block3looks"} و `إخفاء`{:class="block3looks"} الكائنات `عند النقر فوق العلم الأخضر`{:class="block3events"}.
+**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
