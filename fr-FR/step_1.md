@@ -24,4 +24,4 @@ quand le drapeau vert est cliqué
 basculer sur l'arrière-plan [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Astuce :** Tu peux également faire en sorte que les sprites `montrent`{:class="block3looks"} et `masquent`{:class="block3looks"} `lorsque le drapeau vert est cliqué`{:class="block3events"}.
