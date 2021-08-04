@@ -1,4 +1,4 @@
-When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
+Quando estás a criar um livro, animação, apresentação ou um jogo com níveis, alguns atores devem aparecer apenas em alguns cenários.
 
 **Mostrar e esconder atores em diferentes cenários**: [Veja dentro](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
 Clique no Palco ou pressione a tecla <kbd>Espaço</kbd> para mudar para o próximo cenário.
