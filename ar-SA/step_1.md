@@ -8,7 +8,7 @@
 
 استخدم كتل `عرض`{:class="block3looks"} و `اخفاء`{:class="block3looks"} مع كتلة `عندما تتبدل الخلفية الى`{:class="block3events"} لجعل الكائنات تظهر فقط على الخلفيات حيث ينتمون.
 
-The **Beachball** sprite:
+الكائن **Beachball**:
 ```blocks3
 when backdrop switches to [Beach Rio v]
 show
@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**نصيحة:** يمكنك أيضا جعل الكائنات `تظهر`{: فئة = "block3looks"} و `تختفي`{: فئة = "block3looks"} `عند نقر العلم الأخضر`{: فئة = "block3events"}.
