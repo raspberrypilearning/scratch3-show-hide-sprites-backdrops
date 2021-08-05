@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Consejo:** También puedes `mostrar`{:class="block3looks"} y `esconder`{:class="block3looks"} objetos `al presionar la bandera verde`{:class="block3events"}.
