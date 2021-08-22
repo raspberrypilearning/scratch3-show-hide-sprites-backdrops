@@ -1,14 +1,14 @@
-When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
+Όταν δημιουργείς ένα βιβλίο, ένα κινούμενο σχέδιο, μια παρουσίαση ή ένα παιχνίδι με επίπεδα, ορισμένα αντικείμενα θα πρέπει να εμφανίζονται μόνο σε ορισμένα υπόβαθρα.
 
-**Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-Click on the Stage or press the <kbd>Space</kbd> key to switch to the next backdrop.
+**Εμφάνιση και απόκρυψη αντικειμένων σε διαφορετικά υπόβαθρα**: [Δες μέσα](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
+Κάνε κλικ στη Σκηνή ή πάτα το πλήκτρο <kbd>Διάστημα</kbd> για να μεταβείς στο επόμενο υπόβαθρο.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use `show`{:class="block3looks"} and `hide`{:class="block3looks"} blocks with the `when backdrop switches to`{:class="block3events"} block to make sprites only show on the backdrops where they belong.
+Χρησιμοποίησε τα `εμφανίσου`{: class = "block3looks"} και `εξαφανίσου`{: class = "block3looks"} με το `όταν το υπόβαθρο αλλάξει σε`{: class = "block3events"} για να κάνεις τα αντικείμενα να εμφανίζονται μόνο στα υπόβαθρα στα οποία ανήκουν.
 
-The **Beachball** sprite:
+Το αντικείμενο**Beachball**:
 ```blocks3
 when backdrop switches to [Beach Rio v]
 show
@@ -17,11 +17,11 @@ when backdrop switches to [Soccer 2 v]
 hide
 ```
 
-Set the `backdrop`{:class="block3looks"} `when green flag clicked`{:class="block3events"} to make sure that sprites show or hide correctly on the first backdrop:
+Όρισε το `υπόβαθρο`{: class = "block3looks"} `όταν γίνει κλικ στην πράσινη σημαία`{: class = "block3events"} για να βεβαιωθείς ότι τα αντικείμενα εμφανίζονται ή κρύβονται σωστά στο πρώτο υπόβαθρο:
 
 ```blocks3
 when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Υπόδειξη:** Μπορείς επίσης να χρησιμοποιήσεις τα μπλοκ `εμφανίσου`{: class = "block3looks"} και `εξαφανίσου`{: class = "block3looks"} για τα αντικείμενα`όταν γίνει κλικ στην πράσινη σημαία`{: class = "block3events"}.
