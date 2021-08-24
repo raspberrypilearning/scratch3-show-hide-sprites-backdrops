@@ -20,7 +20,7 @@ cacher
 Définis l'`arrière-plan`{:class="block3looks"} `quand le drapeau vert est cliqué`{:class="block3events"} pour t'assurer que les sprites s'affichent ou se masquent correctement sur le premier arrière-plan :
 
 ```blocks3
-quand le drapeau vert est cliqué 
+when green flag clicked
 basculer sur l'arrière-plan [Beach Rio v]
 ```
 

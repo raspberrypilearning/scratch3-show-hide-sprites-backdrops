@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**نصيحة:** يمكنك أيضا جعل الكائنات `تظهر`{:فئة="block3looks"} و `تختفي`{:فئة="block3looks"} `عند نقر العلم الأخضر`{:فئة="block3events"}.
+**نصيحة:** يمكنك أيضا جعل الكائنات `تظهر`{:class="block3looks"} و `تختفي`{:class="block3looks"} `عند نقر العلم الأخضر`{:class="block3events"}.
