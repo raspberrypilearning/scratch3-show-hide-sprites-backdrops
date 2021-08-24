@@ -1,0 +1,10 @@
+---
+title: Mostrar y ocultar objetos en diferentes fondos
+hero_image: images/banner.png
+description: Muestra y oculta sprites en diferentes fondos para que aparezcan solo en las páginas, escenas o niveles correctos en tu proyecto
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-11"
+steps:
+  - title: Mostrar y ocultar objetos en diferentes fondos
