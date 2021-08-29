@@ -6,16 +6,16 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
-それぞれの背景でスプライトを切り替えるには、`背景が...になったとき`{:class="block3events"}イベントと一緒に、`表示する`{:class="block3looks"}と</code>隠す`{:class="block3looks"}ブロックを使います。</p>
+それぞれの背景でスプライトを切り替えるには、`背景が...になったとき`{:class="block3events"}イベントと一緒に、`表示する`{:class="block3looks"}と`隠す`{:class="block3looks"}ブロックを使います。
 
-<p spaces-before="0">The <strong x-id="1">Beachball</strong> sprite:</p>
-
-<pre><code class="blocks3">when backdrop switches to [Beach Rio v]
+The **Beachball** sprite:
+```blocks3
+when backdrop switches to [Beach Rio v]
 show
 
 when backdrop switches to [Soccer 2 v]
 hide
-`</pre>
+```
 
 `緑の旗が押されとき`{:class="block3events"}イベントの`背景を...にする`{:class="block3looks"}で設定した背景で、スプライトの表示が正しく出来てるかを確認しましょう。
 
