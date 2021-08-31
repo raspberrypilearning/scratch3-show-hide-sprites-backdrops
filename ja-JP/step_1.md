@@ -8,7 +8,7 @@
 
 それぞれの背景でスプライトを切り替えるには、`背景が...になったとき`{:class="block3events"}イベントと一緒に、`表示する`{:class="block3looks"}と`隠す`{:class="block3looks"}ブロックを使います。
 
-The **Beachball** sprite:
+**ビーチボール** スプライト：
 ```blocks3
 when backdrop switches to [Beach Rio v]
 show
@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**ヒント：**`緑の旗が押されたとき`{：class = "block3events"}`表示する` {：class = "block3looks"}や `隠す`{：class = "block3looks"}ことができます。
