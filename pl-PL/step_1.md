@@ -1,14 +1,14 @@
-When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
+Kiedy tworzysz książkę, animację, prezentację lub grę z poziomami, niektóre duszki powinny pokazywać się tylko na niektórych tłach.
 
-**Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-Click on the Stage or press the <kbd>Space</kbd> key to switch to the next backdrop.
+**Pokazuj i ukrywaj duszki na różnych tłach**: [Zobacz więcej](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
+Kliknij scenę lub naciśnij klawisz <kbd>Spacja</kbd>, aby przejść do następnego tła.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use `show`{:class="block3looks"} and `hide`{:class="block3looks"} blocks with the `when backdrop switches to`{:class="block3events"} block to make sprites only show on the backdrops where they belong.
+Użyj bloków `pokaż`{:class="block3looks"} i `ukryj`{:class="block3looks"} używając bloku `kiedy tło zmieni się na`{:class="block3events"}, aby duszki pokazywały się tylko na tle, do którego należą.
 
-The **Beachball** sprite:
+Duszek **Piłka plażowa**:
 ```blocks3
 when backdrop switches to [Beach Rio v]
 show
@@ -17,11 +17,11 @@ when backdrop switches to [Soccer 2 v]
 hide
 ```
 
-Set the `backdrop`{:class="block3looks"} `when green flag clicked`{:class="block3events"} to make sure that sprites show or hide correctly on the first backdrop:
+Ustaw `tło`{:class="block3looks"} `kiedy kliknięto zieloną flagę`{:class="block3events"}, aby upewnić się, że duszki pokazują lub ukrywają się poprawnie na pierwszym tle:
 
 ```blocks3
 when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Wskazówka:** Możesz również sprawić, by duszki `pokazywały`{:class="block3looks"} oraz `ukrywały`{:class="block3looks"} się `kiedy kliknięto zieloną flagę`{:class="block3events"}.
