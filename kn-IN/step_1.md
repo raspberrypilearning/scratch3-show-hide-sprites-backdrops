@@ -1,4 +1,4 @@
-When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
+ನೀವು ಪುಸ್ತಕ, ಅನಿಮೇಶನ್, ಪ್ರಸ್ತುತಿ ಅಥವಾ ಆಟವನ್ನು ಮಟ್ಟಗಳೊಂದಿಗೆ ರಚಿಸುವಾಗ, ಕೆಲವು ಸ್ಪ್ರೈಟ್‌ಗಳು ಕೆಲವು ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ಗಳಲ್ಲಿ ಮಾತ್ರ ತೋರಿಸಬೇಕು.
 
 **Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
 Click on the Stage or press the <kbd>Space</kbd> key to switch to the next backdrop.
