@@ -1,7 +1,7 @@
 ನೀವು ಪುಸ್ತಕ, ಅನಿಮೇಶನ್, ಪ್ರಸ್ತುತಿ ಅಥವಾ ಆಟವನ್ನು ಮಟ್ಟಗಳೊಂದಿಗೆ ರಚಿಸುವಾಗ, ಕೆಲವು ಸ್ಪ್ರೈಟ್‌ಗಳು ಕೆಲವು ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ಗಳಲ್ಲಿ ಮಾತ್ರ ತೋರಿಸಬೇಕು.
 
-**Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-ಮುಂದಿನ ಬ್ಯಾಕ್ಡ್ರಾಪ್ ಗೆ ಬದಲಾಯಿಸಲು Show ಅಥವಾ <kbd>Space</kbd> ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
+**ವಿವಿಧ ಹಿನ್ನೆಲೆ ಮೇಲೆ ತೋರಿಸಿ ಹಾಗೂ ಮರೆಮಾಡಿ ಅತಿಮಾನುಷ**: [ಒಳಗಡೆ ವೀಕ್ಷಿಸಿ](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
+ಪತ್ರಿಕಾ ಸ್ಟೇಜ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಅಥವಾ <kbd>ಸ್ಪೇಸ್</kbd> ಸ್ವಿಚ್ ಕೀಲಿಯನ್ನು ಮುಂದಿನ ಬ್ಯಾಕ್ಟ್ರಾಪ್ಗೆ.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**ಸಲಹೆ:**</code>{: class = "block3events"} ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ನೀವು `ಶೋ`{: class = "block3looks}} ಮತ್ತು `ಹೈಡ್`{: class =" block3looks "} .</p>
