@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**ಸಲಹೆ:**</code>{: class = "block3events"} ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ನೀವು `ಶೋ`{: class = "block3looks}} ಮತ್ತು `ಹೈಡ್`{: class =" block3looks "} .</p>
+**ಸಲಹೆ:**when green flag clicked</code>{: class = "block3events"} ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ನೀವು `show`{: class = "block3looks}} ಮತ್ತು `hide`{: class =" block3looks "} .</p>
