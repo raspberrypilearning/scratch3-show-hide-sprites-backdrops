@@ -17,7 +17,7 @@ when backdrop switches to [Soccer 2 v]
 hide
 ```
 
-पहिल्या पार्श्वभूमीवर स्प्राइट्स योग्यरित्या दाखविले किंवा लपविले जात आहेत याची खात्री करण्यासाठी `backdrop`{:class="block3looks"} `when green flag clicked` निश्चित करा:
+पहिल्या पार्श्वभूमीवर स्प्राइट्स योग्यरित्या दाखविले किंवा लपविले जात आहेत याची खात्री करण्यासाठी `backdrop`{:class="block3looks"} `when green flag clicked`{:class="block3events"} निश्चित करा:
 
 ```blocks3
 when flag clicked
