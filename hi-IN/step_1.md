@@ -8,7 +8,7 @@ Click on the Stage or press the <kbd>Space</kbd> key to switch to the next backd
 
 Use `show`{:class="block3looks"} and `hide`{:class="block3looks"} blocks with the `when backdrop switches to`{:class="block3events"} block to make sprites only show on the backdrops where they belong.
 
-The **Beachball** sprite:
+**बीचबॉल** स्प्राइट:
 ```blocks3
 when backdrop switches to [Beach Rio v]
 show
@@ -24,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**युक्ति:** `हरे झंडे पर क्लिक करने पर`{:class="block3events"} आप स्प्राइट्स को `शो `{:class="block3looks"}और `हाइड`{:class="block3looks"} भी कर सकते हैं।
