@@ -6,7 +6,7 @@ Clique sur la scène ou appuie sur la touche <kbd>Espace</kbd> pour passer à l'
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Utilise les blocs `montrer`{:class="block3looks"} et `cacher`{:class="block3looks"} avec le bloc `quand l'arrière-plan bascule sur`{:class="block3events"} pour que les sprites ne s'affichent que sur les arrière-plans où ils appartiennent.
+Utilise les blocs `montrer`{:class="block3looks"} et `cacher`{:class="block3looks"} avec le bloc `quand l'arrière-plan bascule sur`{:class="block3events"} pour que les sprites ne s'affichent que sur les arrière-plans auxquels ils appartiennent.
 
 Le sprite **Beachball**:
 ```blocks3
