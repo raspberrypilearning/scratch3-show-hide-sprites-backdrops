@@ -1,12 +1,12 @@
-When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
+जब आप एक किताब, एनीमेशन, प्रस्तुति, या स्तरों के साथ खेल बना रहे हैं, तो कुछ स्प्राइट केवल कुछ पृष्ठभूमि पर दिखने चाहिए।
 
-**Show and hide sprites on different backdrops**: [See inside](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-Click on the Stage or press the <kbd>Space</kbd> key to switch to the next backdrop.
+**अलग-अलग बैकड्रॉप्स पर स्प्राइट्स दिखाएं और छुपाएं**: [अंदर देखें](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
+स्टेज पर क्लिक करें या अगली बैकड्रॉप पर स्विच करने के लिए <kbd>Space</kbd> की दबाएं।
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use `show`{:class="block3looks"} and `hide`{:class="block3looks"} blocks with the `when backdrop switches to`{:class="block3events"} block to make sprites only show on the backdrops where they belong.
+`show`{:class="block3looks"} (शो) का उपयोग करें और `hide`{:class="block3looks"} (छिपाएं) ब्लॉकस को `when backdrop switches to`{:class="block3events"} (के साथ जब बैकड्रॉप) ब्लॉक पर बदल जाता है ताकि स्प्राइट केवल वहि बैकड्रॉप पर दिखे जहां वे संबंधित हैं।
 
 **बीचबॉल** स्प्राइट:
 ```blocks3
@@ -17,7 +17,7 @@ when backdrop switches to [Soccer 2 v]
 hide
 ```
 
-Set the `backdrop`{:class="block3looks"} `when green flag clicked`{:class="block3events"} to make sure that sprites show or hide correctly on the first backdrop:
+`backdrop`{:class="block3looks"} (बैकड्रॉप) `wheen green flag clicked`{:class="block3events"} (सेट करें जब हरे झंडे) पर क्लिक किया हो ताकि यह सुनिश्चित हो सके कि स्प्राइट्स पहली बैकड्रॉप पर सही तरीके से दिखें या छिपें:
 
 ```blocks3
 when flag clicked
