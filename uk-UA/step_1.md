@@ -1,9 +1,6 @@
 Коли ти створюєш книгу, анімацію, презентацію або гру з рівнями, деякі спрайти повинні відображатися тільки на певних тлах.
-
-**Показувати й приховувати спрайти на різних тлах**: [Переглянути код](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-Клацни на сцену або натисни клавішу <kbd>Пробіл</kbd> для зміни тла на наступне.
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Використовуй блоки `показати`{:class="block3looks"} та `сховати`{:class="block3looks"} із блоком `коли тло зміниться на`{:class="block3events"}, щоб спрайти відображалися тільки на тих фонах, на яких вони повинні відображатись.
