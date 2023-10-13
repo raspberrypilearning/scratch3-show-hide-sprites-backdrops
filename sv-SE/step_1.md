@@ -1,9 +1,6 @@
 När du skapar en bok, animation, presentation eller spel med nivåer bör vissa sprajts bara visas på vissa bakgrunder.
-
-**Visa och dölj sprajts på olika bakgrunder**: [Se inuti](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-Klicka på scenen eller tryck på <kbd>blanksteg</kbd> för att växla till nästa bakgrund.
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Använd `visa`{:class="block3looks"} och `dölj`{:class="block3looks"} blocken med `när bakgrunden växlar till`{:class="block3events"} blocket för att få sprajts att endast visas på bakgrunderna där de hör hemma.
