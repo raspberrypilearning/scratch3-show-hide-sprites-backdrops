@@ -1,9 +1,6 @@
 レベルが設定されてるゲームや、スライド、アニメーション、本などを作る時、背景でスプライトの表示を切り替たくなります。
-
-**背景でスプライトの表示を切り替える**: [なかをみる](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-ステージをクリックするか<kbd>スペースキー</kbd>を押すことで、次の背景に変わります。
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 それぞれの背景でスプライトを切り替えるには、`背景が...になったとき`{:class="block3events"}イベントと一緒に、`表示する`{:class="block3looks"}と`隠す`{:class="block3looks"}ブロックを使います。
