@@ -1,9 +1,6 @@
 Kiedy tworzysz książkę, animację, prezentację lub grę z poziomami, niektóre duszki powinny pokazywać się tylko na niektórych tłach.
-
-**Pokazuj i ukrywaj duszki na różnych tłach**: [Zobacz więcej](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-Kliknij scenę lub naciśnij klawisz <kbd>Spacja</kbd>, aby przejść do następnego tła.
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Użyj bloków `pokaż`{:class="block3looks"} i `ukryj`{:class="block3looks"} używając bloku `kiedy tło zmieni się na`{:class="block3events"}, aby duszki pokazywały się tylko na tle, do którego należą.
