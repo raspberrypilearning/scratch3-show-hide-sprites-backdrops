@@ -1,9 +1,6 @@
 जब आप एक किताब, एनीमेशन, प्रस्तुति, या स्तरों के साथ खेल बना रहे हैं, तो कुछ स्प्राइट केवल कुछ पृष्ठभूमि पर दिखने चाहिए।
-
-**अलग-अलग बैकड्रॉप्स पर स्प्राइट्स दिखाएं और छुपाएं**: [अंदर देखें](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
-स्टेज पर क्लिक करें या अगली बैकड्रॉप पर स्विच करने के लिए <kbd>Space</kbd> की दबाएं।
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499876704/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 `show`{:class="block3looks"} (शो) का उपयोग करें और `hide`{:class="block3looks"} (छिपाएं) ब्लॉकस को `when backdrop switches to`{:class="block3events"} (के साथ जब बैकड्रॉप) ब्लॉक पर बदल जाता है ताकि स्प्राइट केवल वहि बैकड्रॉप पर दिखे जहां वे संबंधित हैं।
