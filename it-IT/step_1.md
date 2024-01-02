@@ -1,4 +1,5 @@
 Quando crei un libro, un'animazione, una presentazione o un gioco con livelli, alcune immagini dovrebbero essere visualizzate solo su alcuni sfondi.
+
 **Mostra e nascondi le immagini su sfondi diversi**: [Guarda qui](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
 Fai clic sullo Stage o premi il tasto <kbd>Barra spaziatrice</kbd> per passare allo sfondo successivo.
 <div class="scratch-preview" style="margin-left: 15px;">
