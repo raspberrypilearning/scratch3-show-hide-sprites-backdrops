@@ -1,11 +1,11 @@
-When you are creating a book, animation, presentation, or game with levels, some sprites should only show on some backdrops.
+Wenn du ein Buch, eine Animation, eine Präsentation oder ein Spiel mit Level erstellst, sollten einige Figuren nur vor bestimmten Hintergründen angezeigt werden.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Use `show`{:class="block3looks"} and `hide`{:class="block3looks"} blocks with the `when backdrop switches to`{:class="block3events"} block to make sprites only show on the backdrops where they belong.
+Verwende die Blöcke `zeige dich`{:class="block3looks"} und `verstecke dich`{:class="block3looks"} mit dem Block `Wenn das Bühnenbild zu ... wechselt`{:class="block3events"}, damit Figuren nur auf den Hintergründen angezeigt werden, wo sie hingehören.
 
-The **Beachball** sprite:
+Die **Beachball** Figur:
 ```blocks3
 when backdrop switches to [Beach Rio v]
 show
@@ -14,11 +14,11 @@ when backdrop switches to [Soccer 2 v]
 hide
 ```
 
-Set the `backdrop`{:class="block3looks"} `when green flag clicked`{:class="block3events"} to make sure that sprites show or hide correctly on the first backdrop:
+Stelle den `Hintergrund`{:class="block3looks"} `ein, wenn auf die grüne Flagge geklickt wird`{:class="block3events"}, um sicherzustellen, dass die Figuren auf dem ersten Hintergrund richtig angezeigt oder ausgeblendet werden:
 
 ```blocks3
 when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tip:** You can also make sprites `show`{:class="block3looks"} and `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Tipp:** Du kannst Figuren auch `zeigen`{:class="block3looks"} und `verstecken`{:class="block3looks"} `, wenn auf die grüne Flagge geklickt wird`{:class="block3events"}.
