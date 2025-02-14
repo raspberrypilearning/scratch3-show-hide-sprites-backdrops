@@ -1,4 +1,5 @@
 Wenn du ein Buch, eine Animation, eine Präsentation oder ein Spiel mit Level erstellst, sollten einige Figuren nur vor bestimmten Hintergründen angezeigt werden.
+
 **Figuren auf verschiedenen Hintergründen ein- und ausblenden**: [Schau hinein](https://scratch.mit.edu/projects/499876704/editor){:target="_blank"}
 Klicke auf die Bühne oder drücke die <kbd>Leertaste</kbd>, um zum nächsten Hintergrund zu wechseln.
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -23,4 +24,4 @@ when flag clicked
 switch backdrop to [Beach Rio v]
 ```
 
-**Tipp:** Du kannst Figuren auch `zeigen`{:class="block3looks"} und `verstecken`{:class="block3looks"} `, wenn auf die grüne Flagge geklickt wird`{:class="block3events"}.
+**Tipp:** Du kannst Figuren auch `zeigen`{:class="block3looks"} und `verstecken`{:class="block3looks"}, `wenn auf die grüne Flagge geklickt wird`{:class="block3events"}.
